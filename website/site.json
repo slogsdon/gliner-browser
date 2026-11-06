@@ -1,0 +1,8 @@
+{
+  "slug": "gliner-browser",
+  "name": "GLiNER Browser",
+  "origin": "https://projects.logsdon.io",
+  "description": "A local browser CLI with persistent sessions and semantic element targeting.",
+  "lastmod": "2026-09-18",
+  "source": "https://github.com/slogsdon/gliner-browser"
+}
